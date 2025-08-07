@@ -1,0 +1,17 @@
+{
+  "name": "rando",
+  "title": "Rando",
+  "description": "This module picks a token from your selection - getting rid of rolling to see who the goblin targets next.",
+  "version": "0.1.0",
+  "author": "jagermo",
+  "minimumCoreVersion": "10",
+  "compatibleCoreVersion": "11",
+  "scripts": ["scripts/rando.js"],
+  "esmodules": [],
+  "styles": [],
+  "packs": [],
+  "system": [],
+  "url": "https://github.cob",
+  "manifest": "https://yourdomain.com/rando/module.json",
+  "download": "https://yourdomain.com/rando/rando.zip"
+}
